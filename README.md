@@ -1,4 +1,4 @@
-#  Mini-GPT — Modèle de Langage from Scratch
+#  Mini-GPT Modèle de Langage from Scratch
 
 > Un modèle GPT miniature construit entièrement from scratch en PyTorch, entraîné sur les œuvres  de Shakespeare pour générer du texte à la manière élisabéthaine.
 
