@@ -31,7 +31,7 @@ mini_gpt/
 │   ├── trainer.py             # Boucle d'entraînement avec validation et early stopping
 │   └── generate.py            # Génération de texte
 │
-├── gpt_config.py              # Hyperparamètres centralisés
+├── gpt_config.py              # Hyperparamètress
 └── README.md
 ```
 
