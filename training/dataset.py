@@ -1,5 +1,8 @@
 import torch
-from config import block_size, batch_size
+import sys
+import os
+sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from gpt_config import block_size, batch_size
 class Data():
    def __init__(self,path_data):
        self.path_data=path_data
