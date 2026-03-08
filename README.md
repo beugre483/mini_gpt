@@ -246,7 +246,7 @@ That I have seen the sun of the world,
 And the world is not the world of the world.
 ```
 
-> 💡 Le modèle génère du texte grammaticalement cohérent qui ressemble au style shakespearien, même si le sens reste limité — c'est un mini-modèle entraîné sur CPU !
+>  Le modèle génère du texte grammaticalement cohérent qui ressemble au style shakespearien, même si le sens reste limité c'est un mini-modèle entraîné sur CPU !
 
 ---
 
