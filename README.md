@@ -37,7 +37,7 @@ mini_gpt/
 
 ---
 
-## 🏗️ Architecture du modèle
+##  Architecture du modèle
 
 Le modèle suit l'architecture **Transformer Decoder** introduite dans le papier *"Attention is All You Need"* (Vaswani et al., 2017).
 
@@ -81,7 +81,7 @@ Logits (scores par token)
 
 ---
 
-## 🔍 Comment fonctionne l'entraînement d'un LLM ?
+##  Comment fonctionne l'entraînement d'un LLM ?
 
 ### 1. La tokenisation
 
@@ -192,7 +192,7 @@ La loss utilisée est la **cross-entropy** — elle pénalise le modèle quand l
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Prérequis
 
@@ -222,7 +222,7 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/karpathy/char-rnn/mast
 
 ---
 
-## 🏋️ Entraîner le modèle
+##  Entraîner le modèle
 
 ```bash
 python training/trainer.py
@@ -234,7 +234,7 @@ Le meilleur modèle est sauvegardé automatiquement dans `best_model.pth`.
 
 ---
 
-## 📊 Exemples de texte généré
+##  Exemples de texte généré
 
 Après 2000 itérations d'entraînement (train loss ≈ 1.82) :
 
@@ -268,7 +268,7 @@ En construisant ce projet from scratch on a compris :
 
 ---
 
-## 📚 Références
+## Références
 
 - [Attention is All You Need](https://arxiv.org/abs/1706.03762) — Vaswani et al., 2017
 
